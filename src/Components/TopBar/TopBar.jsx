@@ -41,7 +41,7 @@ class TopBar extends Component {
       <div className="top-bar">
         <div className="horizontal-flex">
           <img src="./logo-no-moon.svg" className="top-bar-logo" alt="" />
-          <CompanyName message="Feldspar" />
+          <CompanyName message="InteriorDesing" />
         </div>
         <div className="horizontal-flex">
           {store.obtenerInicioDeSesion && (
